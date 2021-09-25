@@ -1,4 +1,4 @@
-# Restaurant order
+# Microfrontend Host
 
 
 # Getting started
@@ -7,12 +7,8 @@
 2. `yarn install`
 3. `yarn start`
 
-This will run the app on its own, outside of the container. This is useful while
-you're tweaking logic and styling, but you'll usually then need to integrate and
-test it with the rest of the application. So you should also run:
-
-- the [`container`](https://github.com/micro-frontends-demo/container/) application
-- the [`browse`](https://github.com/micro-frontends-demo/browse) micro frontend
+- the [`container`](https://github.com/MicrofrontendGenerator/container) Microfrontend Container
+- the [`static`](https://github.com/MicrofrontendGenerator/static.git) Microfrontend Static
 
 # Run the tests
 
