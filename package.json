@@ -1,9 +1,9 @@
 {
-  "name": "@micro-frontends-demo/restaurant-order",
+  "name": "microfrontend",
   "version": "1.0.0",
-  "description": "A micro frontend for ordering food from a restaurant",
-  "repository": "git@github.com:micro-frontends-demo/restaurant-order",
-  "author": "Cam Jackson",
+  "description": "Microfrontend Host",
+  "repository": "https://github.com/MicrofrontendGenerator/microfrontend.git",
+  "author": "Retzd",
   "license": "MIT",
   "scripts": {
     "format": "prettier --write",

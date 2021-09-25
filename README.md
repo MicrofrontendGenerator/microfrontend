@@ -1,5 +1,8 @@
-# Microfrontend Host
+# Hacktoberfest 2021
+We are open for Hacktoberfest 2021, please feel free to contribute into this repository.
 
+# Microfrontend Host
+Microfrontend for serving another frontend host
 
 # Getting started
 
@@ -7,9 +10,5 @@
 2. `yarn install`
 3. `yarn start`
 
-- the [`container`](https://github.com/MicrofrontendGenerator/container) Microfrontend Container
-- the [`static`](https://github.com/MicrofrontendGenerator/static.git) Microfrontend Static
-
-# Run the tests
-
-- `yarn test`
+- [`Microfrontend Container`](https://github.com/MicrofrontendGenerator/container)
+- [`Microfrontend Static`](https://github.com/MicrofrontendGenerator/static.git)
